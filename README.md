@@ -1,27 +1,14 @@
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
 
----
-**두껍게** <br>
-*기울임*  <br>
---취소선--  <br>
+#### 세종대학교 컴퓨터공학과 👋
+####  SW/AI 해커톤 장려상👋
 
-* 1번
-* 2번<br>
 
-[네이버](https://www.naver.com/)
 
-```
-System.out.println()
-```
+
 😏
 😂
 😡
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimchangwooo)](https://github.com/Kimchangwooo/github-readme-stats)
 
